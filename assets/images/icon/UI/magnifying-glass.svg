@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / UI / Magnifying Glass</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.5,17 C14.0898509,17 17,14.0898509 17,10.5 C17,6.91014913 14.0898509,4 10.5,4 C6.91014913,4 4,6.91014913 4,10.5 C4,14.0898509 6.91014913,17 10.5,17 Z M17.1760252,15.7618116 L21.6568542,20.2426407 L20.2426407,21.6568542 L15.7618116,17.1760252 C14.3145189,18.3182963 12.4868697,19 10.5,19 C5.80557963,19 2,15.1944204 2,10.5 C2,5.80557963 5.80557963,2 10.5,2 C15.1944204,2 19,5.80557963 19,10.5 C19,12.4868697 18.3182963,14.3145189 17.1760252,15.7618116 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-UI-/-Magnifying-Glass" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#9298AD" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

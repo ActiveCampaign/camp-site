@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="188px" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>access-identify</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M118.135135,91.4594595 C92.8793028,91.4594595 72.4054054,70.9855621 72.4054054,45.7297297 C72.4054054,20.4738974 92.8793028,0 118.135135,0 C143.390967,0 163.864865,20.4738974 163.864865,45.7297297 C163.864865,70.9855621 143.390967,91.4594595 118.135135,91.4594595 Z M27.9459459,152.432432 C12.5118262,152.432432 0,139.920606 0,124.486486 C0,109.052367 12.5118262,96.5405405 27.9459459,96.5405405 C43.3800657,96.5405405 55.8918919,109.052367 55.8918919,124.486486 C55.8918919,139.920606 43.3800657,152.432432 27.9459459,152.432432 Z M28.5810811,54.6216216 C20.5132457,54.6216216 13.972973,48.0813488 13.972973,40.0135135 C13.972973,31.9456782 20.5132457,25.4054054 28.5810811,25.4054054 C36.6489164,25.4054054 43.1891892,31.9456782 43.1891892,40.0135135 C43.1891892,48.0813488 36.6489164,54.6216216 28.5810811,54.6216216 Z" id="path-1"></path>
+    </defs>
+    <g id="3---Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Patterns--Accessibility" transform="translate(-242.000000, -381.000000)">
+            <g id="intro" transform="translate(238.000000, 127.000000)">
+                <g id="Group" transform="translate(4.000000, 254.000000)">
+                    <g id="Group-8">
+                        <g id="Icon-Background-/-Circles-/-2">
+                            <g id="Color-/-Blue-/-20" transform="translate(17.783784, 12.702703)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FAFBFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)" fill="#FAFBFF" id="Rectangle-24">
+                                    <g transform="translate(-17.783784, -12.702703)">
+                                        <polygon points="0 0 188 0 188 188 0 188"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Icon-/-Large-/-Target" transform="translate(30.000000, 30.000000)">
+                            <circle id="Oval-33" stroke="#356AE6" stroke-width="1.8" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" cx="65" cy="65" r="50"></circle>
+                            <circle id="Oval-33-Copy-2" stroke="#F3376B" stroke-width="1.8" fill="#FAA5BD" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="65" cy="65" r="33"></circle>
+                            <circle id="Oval-33-Copy" stroke="#F3376B" stroke-width="1.8" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="64" cy="64" r="13"></circle>
+                            <circle id="Oval" fill="#356AE6" fill-rule="nonzero" cx="64.5" cy="64.5" r="2.5"></circle>
+                            <polygon id="Path-23" stroke="#356AE6" stroke-width="1.8" fill="#FFFFFF" fill-rule="nonzero" points="100 29.1 100 21 90 31.8 90 39"></polygon>
+                            <polygon id="Path-23-Copy" stroke="#356AE6" stroke-width="1.8" fill="#FFFFFF" fill-rule="nonzero" points="99.7777778 29 106 31.7692308 96.2222222 41 90 40.0769231"></polygon>
+                            <path d="M64,65 L108.55,21" id="Path-22" stroke="#356AE6" stroke-width="1.8" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

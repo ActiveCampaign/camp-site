@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="146px" viewBox="0 0 960 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>grid-gutter-s</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1---Brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6_Grid" transform="translate(-240.000000, -2255.000000)">
+            <g id="structure" transform="translate(240.000000, 837.000000)">
+                <g id="bp-copy" transform="translate(0.000000, 1252.000000)">
+                    <g id="small" transform="translate(0.000000, 124.000000)">
+                        <g id="grid-gutter-s" transform="translate(0.000000, 42.000000)">
+                            <rect id="Rectangle-5" fill="#FAFBFF" fill-rule="nonzero" x="0" y="0" width="960" height="118"></rect>
+                            <g id="Group-5" transform="translate(2.000000, 0.000000)" fill-rule="nonzero">
+                                <g id="Group-8" fill="#B6F2E4">
+                                    <rect id="Rectangle-8" x="0" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-12" x="81" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-13" x="162" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-14" x="243" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-15" x="324" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-16" x="405" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-17" x="486" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-18" x="567" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-19" x="648" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-20" x="729" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-21" x="810" y="0" width="65" height="118"></rect>
+                                    <rect id="Rectangle-8-Copy-22" x="891" y="0" width="65" height="118"></rect>
+                                </g>
+                                <rect id="Rectangle-11-Copy" fill="#C3A7FC" x="81" y="15" width="146" height="88"></rect>
+                                <rect id="Rectangle-11-Copy-4" fill="#C3A7FC" x="243" y="15" width="146" height="88"></rect>
+                                <rect id="Rectangle-11-Copy-5" fill="#C3A7FC" x="405" y="15" width="146" height="88"></rect>
+                                <rect id="Rectangle-11-Copy-6" fill="#C3A7FC" x="567" y="15" width="146" height="88"></rect>
+                                <rect id="Rectangle-11-Copy-7" fill="#C3A7FC" x="729" y="15" width="146" height="88"></rect>
+                            </g>
+                            <g id="Group-9" transform="translate(380.000000, 107.000000)" fill="#F3376B">
+                                <g id="Guides-/-Annotation-/-Size-/-Width" transform="translate(19.000000, 5.500000) rotate(-180.000000) translate(-19.000000, -5.500000) translate(11.000000, 0.000000)" fill-rule="nonzero">
+                                    <rect id="Rectangle" x="0" y="0" width="2" height="11"></rect>
+                                    <rect id="Rectangle-Copy" x="14" y="0" width="2" height="11"></rect>
+                                    <rect id="Rectangle-2" x="0" y="0" width="16" height="2"></rect>
+                                </g>
+                                <g id="Guides-/-Annotation-/-Size-/-Value-/-Bottom" transform="translate(0.000000, 11.000000)">
+                                    <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                        <tspan x="3.78799998" y="25">16px</tspan>
+                                    </text>
+                                    <polygon id="Line-3" fill-rule="nonzero" points="17 0 19 0 19 11 17 11"></polygon>
+                                </g>
+                            </g>
+                            <g id="Group-9-Copy" transform="translate(569.000000, 107.000000)" fill="#F3376B">
+                                <g id="Guides-/-Annotation-/-Size-/-Width" transform="translate(73.000000, 5.500000) rotate(-180.000000) translate(-73.000000, -5.500000) " fill-rule="nonzero">
+                                    <rect id="Rectangle" x="0" y="0" width="2" height="11"></rect>
+                                    <rect id="Rectangle-Copy" x="144" y="0" width="2" height="11"></rect>
+                                    <rect id="Rectangle-2" x="0" y="0" width="146" height="2"></rect>
+                                </g>
+                                <g id="Guides-/-Annotation-/-Size-/-Value-/-Bottom" transform="translate(55.000000, 11.000000)">
+                                    <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                        <tspan x="0.0379999702" y="25">146px</tspan>
+                                    </text>
+                                    <polygon id="Line-3" fill-rule="nonzero" points="17 0 19 0 19 11 17 11"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

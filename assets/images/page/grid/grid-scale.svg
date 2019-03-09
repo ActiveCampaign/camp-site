@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="782px" height="384px" viewBox="0 0 782 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>grid-scale</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1---Brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6_Grid" transform="translate(-333.000000, -3904.000000)">
+            <g id="spacing" transform="translate(240.000000, 2961.000000)">
+                <g id="scale" transform="translate(0.000000, 867.000000)">
+                    <g id="grid-scale" transform="translate(86.000000, 74.000000)">
+                        <g id="scale" transform="translate(403.000000, 212.500000) rotate(-90.000000) translate(-403.000000, -212.500000) translate(229.500000, -173.500000)" fill="#FAA5BD">
+                            <g id="guideline-grid-scale" transform="translate(0.000000, -0.000000)">
+                                <polygon id="Rectangle-4" points="0 32 347 32 347 40 0 40"></polygon>
+                                <polygon id="Rectangle-4-Copy-8" points="0 0 347 0 347 4 0 4"></polygon>
+                                <polygon id="Rectangle-4-Copy" points="0 68 347 68 347 80 0 80"></polygon>
+                                <polygon id="Rectangle-4-Copy-2" points="0 108 347 108 347 124 0 124"></polygon>
+                                <polygon id="Rectangle-4-Copy-3" points="0 152 347 152 347 172 0 172"></polygon>
+                                <polygon id="Rectangle-4-Copy-4" points="0 200 347 200 347 224 0 224"></polygon>
+                                <polygon id="Rectangle-4-Copy-5" points="0 252 347 252 347 280 0 280"></polygon>
+                                <polygon id="Rectangle-4" points="0 308 347 308 347 340 0 340"></polygon>
+                                <polygon id="Rectangle-4-Copy-6" points="0 368 347 368 347 416 0 416"></polygon>
+                                <polygon id="Rectangle-4-Copy-7" points="0 444 347 444 347 508 0 508"></polygon>
+                                <polygon id="Rectangle-4-Copy-9" points="0 536 347 536 347 616 0 616"></polygon>
+                                <polygon id="Rectangle-4-Copy-10" points="0 644 347 644 347 772 0 772"></polygon>
+                            </g>
+                        </g>
+                        <g id="annotation-copy-5" fill="#F3376B">
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(72.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">12px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(35.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="7.53799998" y="12">8px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(114.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">16px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(161.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">20px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="7.53799998" y="12">4px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(210.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">24px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(265.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">28px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(323.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">32px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(390.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">48px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(472.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">64px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(574.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="3.78799998" y="12">80px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                            <g id="Guides-/-Annotation-/-Size-/-Value-/-Top" transform="translate(703.000000, 0.000000)">
+                                <text id="Value" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="12" font-weight="bold" letter-spacing="0.300000012">
+                                    <tspan x="0.0379999702" y="12">128px</tspan>
+                                </text>
+                                <polygon id="Line-3" fill-rule="nonzero" points="18 17 20 17 20 28 18 28"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
