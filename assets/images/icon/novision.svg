@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3---Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Patterns--Accessibility" transform="translate(-240.000000, -1951.000000)" fill-rule="nonzero">
+            <g id="checklist" transform="translate(236.000000, 804.000000)">
+                <g id="low-vision" transform="translate(4.000000, 1147.000000)">
+                    <g id="icon">
+                        <polygon id="Path-2" fill="#C1D1F7" points="7.984375 23.3837891 23.7836914 8 13.7568359 6.09619141 4.05566406 11.3525391 2 16.2250977"></polygon>
+                        <path d="M30.8009703,16 C26.2911523,9.29205381 21.3629736,6 16,6 C10.6370264,6 5.70884768,9.29205381 1.19902966,16 C5.70884768,22.7079462 10.6370264,26 16,26 C21.3629736,26 26.2911523,22.7079462 30.8009703,16 Z" id="Oval" stroke="#356AE6" stroke-width="2"></path>
+                        <path d="M13.1484559,20.107693 C13.9572756,20.670228 14.9401266,21 16,21 C18.7614237,21 21,18.7614237 21,16 C21,14.7708811 20.5565,13.6453471 19.8207974,12.7746954" id="Oval" stroke="#356AE6" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+                        <path d="M3,30 L30,2" id="Line" stroke="#356AE6" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="2,2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

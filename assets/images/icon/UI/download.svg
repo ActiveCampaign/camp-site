@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.5,0 L7.5,7.5 L2.5,7.5 L10,15 L17.5,7.5 L12.5,7.5 L12.5,0 L7.5,0 Z M0,17.5 L0,20 L20,20 L20,17.5 L0,17.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Callout-/-Misc" transform="translate(-20.000000, -14.000000)">
+            <g id="Group-5-Copy-2">
+                <g id="Rectangle-5">
+                    <g id="Icon-/-Download" transform="translate(20.000000, 14.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#4E5468" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="188px" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>access-plan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M111.148649,161.324324 C78.5265319,161.324324 52.0810811,134.878874 52.0810811,102.256757 C52.0810811,69.63464 78.5265319,43.1891892 111.148649,43.1891892 C143.770765,43.1891892 170.216216,69.63464 170.216216,102.256757 C170.216216,134.878874 143.770765,161.324324 111.148649,161.324324 Z M106.067568,26.6756757 C98.7012831,26.6756757 92.7297297,20.7041223 92.7297297,13.3378378 C92.7297297,5.9715534 98.7012831,0 106.067568,0 C113.433852,0 119.405405,5.9715534 119.405405,13.3378378 C119.405405,20.7041223 113.433852,26.6756757 106.067568,26.6756757 Z M20.9594595,68.5945946 C9.38386964,68.5945946 0,59.210725 0,47.6351351 C0,36.0595453 9.38386964,26.6756757 20.9594595,26.6756757 C32.5350493,26.6756757 41.9189189,36.0595453 41.9189189,47.6351351 C41.9189189,59.210725 32.5350493,68.5945946 20.9594595,68.5945946 Z" id="path-1"></path>
+    </defs>
+    <g id="3---Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Patterns--Accessibility" transform="translate(-488.000000, -381.000000)">
+            <g id="intro" transform="translate(238.000000, 127.000000)">
+                <g id="Group-Copy" transform="translate(250.000000, 254.000000)">
+                    <g id="access-plan">
+                        <g id="Icon-Background-/-Circles-/-3">
+                            <g id="Color-/-Blue-/-20" transform="translate(11.432432, 10.162162)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FAFBFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)" fill="#FAFBFF" id="Rectangle-24">
+                                    <g transform="translate(-11.432432, -10.162162)">
+                                        <polygon points="0 0 188 0 188 188 0 188"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Icon-/-Large-/-Customer-Path" transform="translate(30.000000, 30.000000)">
+                            <g id="Group" transform="translate(64.396044, 64.010926) rotate(-12.000000) translate(-64.396044, -64.010926) translate(0.896044, 35.010926)">
+                                <ellipse id="Oval-37" fill="#E3EBFC" fill-rule="nonzero" cx="45.5727755" cy="12.1047376" rx="11.5903934" ry="11.6889142"></ellipse>
+                                <ellipse id="Oval-37" stroke="#356AE6" stroke-width="2.1" fill="#E3EBFC" fill-rule="nonzero" cx="11.5903934" cy="45.0283477" rx="11.5903934" ry="11.6889142"></ellipse>
+                                <ellipse id="Oval-37" stroke="#356AE6" stroke-width="2.1" fill-rule="nonzero" cx="45.8672464" cy="12.9193262" rx="11.5903934" ry="11.6889142"></ellipse>
+                                <ellipse id="Oval-37" stroke="#356AE6" stroke-width="2.1" fill="#E3EBFC" fill-rule="nonzero" cx="81.2484472" cy="46.1404509" rx="11.5903934" ry="11.6889142"></ellipse>
+                                <path d="M21.3507246,36.4154635 L35.9912215,21.6505193" id="Line-3" stroke="#356AE6" stroke-width="2.1" stroke-linecap="square" fill-rule="nonzero"></path>
+                                <path d="M72.7081573,37.5275667 L56.2375983,20.9170044" id="Line-3" stroke="#356AE6" stroke-width="2.1" stroke-linecap="square" fill-rule="nonzero"></path>
+                                <path d="M105.649275,37.5275667 L89.1787164,20.9170044" id="Line-3" stroke="#356AE6" stroke-width="2.1" stroke-linecap="square" fill-rule="nonzero" transform="translate(97.719006, 29.529889) scale(-1, 1) translate(-97.719006, -29.529889) "></path>
+                                <ellipse id="Oval-37" stroke="#1BDDB1" stroke-width="2.1" fill="#B6F2E4" fill-rule="nonzero" cx="115.409607" cy="11.6889142" rx="11.5903934" ry="11.6889142"></ellipse>
+                                <polygon id="Path" fill="#1BDDB1" fill-rule="nonzero" transform="translate(116.019627, 11.688914) rotate(11.000000) translate(-116.019627, -11.688914) " points="113.691015 17.2257683 108.699379 12.4553464 110.634832 10.6035474 113.691015 13.5234066 121.403131 6.15206011 123.339876 8.00138669"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / UI / Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,3 L24,3 L24,5 L0,5 L0,3 Z M0,11 L24,11 L24,13 L0,13 L0,11 Z M0,19 L24,19 L24,21 L0,21 L0,19 Z" id="path-1"></path>
+    </defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-273.000000, -20.000000)">
+            <g id="header-bar">
+                <g id="Icon-/-UI-/-Menu" transform="translate(273.000000, 17.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="Color-/-Slate-/-80" mask="url(#mask-2)" fill="#5F667E" fill-rule="evenodd">
+                        <rect id="Rectangle-24-Copy-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

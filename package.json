@@ -1,7 +1,23 @@
 {
+  "name": "camp-site",
+  "version": "1.0.0",
+  "description": "My wonderful Nuxt.js project",
+  "author": "Rodney Dennis",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "camp-css": "^0.14.8",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
+  },
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-csso": "^3.0.1"
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0"
   }
 }

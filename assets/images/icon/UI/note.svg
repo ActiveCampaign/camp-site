@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Note</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.6666667,18.3333333 L1.66666667,18.3333333 L1.66666667,1.66666667 L18.3333333,1.66666667 L18.3333333,11.6666667 L12.5,11.6666667 L11.6666667,11.6666667 L11.6666667,18.3333333 Z M13.3333333,18.3333333 L13.3333333,13.3333333 L18.3333333,13.3333333 L18.3333333,14.1666667 L14.1666667,18.3333333 L13.3333333,18.3333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Callout-/-Note" transform="translate(-21.000000, -15.000000)">
+            <g id="Icon-/-Note" transform="translate(20.000000, 14.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#F2F2F2" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Color-/-Blue-/-100" mask="url(#mask-2)" fill="#356AE6" fill-rule="evenodd">
+                    <g transform="translate(-1.666667, -1.666667)" id="Rectangle-24">
+                        <rect x="0" y="0" width="23" height="23"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

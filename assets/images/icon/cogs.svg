@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>cogs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3---Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Patterns--Accessibility" transform="translate(-240.000000, -2567.000000)" fill-rule="nonzero">
+            <g id="checklist" transform="translate(236.000000, 804.000000)">
+                <g id="motor" transform="translate(4.000000, 1763.000000)">
+                    <g id="cogs">
+                        <path d="M23,29.8999819 C22.3616253,29.7703987 21.7674156,29.5191928 21.2426101,29.1716035 L20.4644661,29.9497475 L19.0502525,28.5355339 L19.8283965,27.7573899 C19.4808072,27.2325844 19.2296013,26.6383747 19.1000181,26 L18,26 L18,24 L19.1000181,24 C19.2296013,23.3616253 19.4808072,22.7674156 19.8283965,22.2426101 L19.0502525,21.4644661 L20.4644661,20.0502525 L21.2426101,20.8283965 C21.7674156,20.4808072 22.3616253,20.2296013 23,20.1000181 L23,19 L25,19 L25,20.1000181 C25.6383747,20.2296013 26.2325844,20.4808072 26.7573899,20.8283965 L27.5355339,20.0502525 L28.9497475,21.4644661 L28.1716035,22.2426101 C28.5191928,22.7674156 28.7703987,23.3616253 28.8999819,24 L30,24 L30,26 L28.8999819,26 C28.7703987,26.6383747 28.5191928,27.2325844 28.1716035,27.7573899 L28.9497475,28.5355339 L27.5355339,29.9497475 L26.7573899,29.1716035 C26.2325844,29.5191928 25.6383747,29.7703987 25,29.8999819 L25,31 L23,31 L23,29.8999819 Z M24,28 C25.6568542,28 27,26.6568542 27,25 C27,23.3431458 25.6568542,22 24,22 C22.3431458,22 21,23.3431458 21,25 C21,26.6568542 22.3431458,28 24,28 Z" id="Shape" fill="#356AE6"></path>
+                        <g id="Group-5">
+                            <circle id="Oval" stroke="#356AE6" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" cx="11" cy="11" r="8"></circle>
+                            <circle id="Oval" stroke="#356AE6" stroke-width="2" fill="#C1D1F7" stroke-linecap="square" stroke-linejoin="round" cx="11" cy="11" r="3"></circle>
+                            <path d="M0,10 L3,10 L3,12 L0,12 L0,10 Z M19,10 L22,10 L22,12 L19,12 L19,10 Z" id="Combined-Shape" fill="#356AE6"></path>
+                            <path d="M0,10 L3,10 L3,12 L0,12 L0,10 Z M19,10 L22,10 L22,12 L19,12 L19,10 Z" id="Combined-Shape" fill="#356AE6" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) "></path>
+                            <path d="M0,10 L3,10 L3,12 L0,12 L0,10 Z M19,10 L22,10 L22,12 L19,12 L19,10 Z" id="Combined-Shape" fill="#356AE6" transform="translate(11.000000, 11.000000) rotate(-225.000000) translate(-11.000000, -11.000000) "></path>
+                            <path d="M4.54747351e-13,10 L3,10 L3,12 L4.54747351e-13,12 L4.54747351e-13,10 Z M19,10 L22,10 L22,12 L19,12 L19,10 Z" id="Combined-Shape" fill="#356AE6" transform="translate(11.000000, 11.000000) rotate(-135.000000) translate(-11.000000, -11.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

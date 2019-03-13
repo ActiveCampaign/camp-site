@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="188px" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>access-unify</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M118.135135,91.4594595 C92.8793028,91.4594595 72.4054054,70.9855621 72.4054054,45.7297297 C72.4054054,20.4738974 92.8793028,0 118.135135,0 C143.390967,0 163.864865,20.4738974 163.864865,45.7297297 C163.864865,70.9855621 143.390967,91.4594595 118.135135,91.4594595 Z M27.9459459,152.432432 C12.5118262,152.432432 0,139.920606 0,124.486486 C0,109.052367 12.5118262,96.5405405 27.9459459,96.5405405 C43.3800657,96.5405405 55.8918919,109.052367 55.8918919,124.486486 C55.8918919,139.920606 43.3800657,152.432432 27.9459459,152.432432 Z M28.5810811,54.6216216 C20.5132457,54.6216216 13.972973,48.0813488 13.972973,40.0135135 C13.972973,31.9456782 20.5132457,25.4054054 28.5810811,25.4054054 C36.6489164,25.4054054 43.1891892,31.9456782 43.1891892,40.0135135 C43.1891892,48.0813488 36.6489164,54.6216216 28.5810811,54.6216216 Z" id="path-1"></path>
+    </defs>
+    <g id="3---Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Patterns--Accessibility" transform="translate(-980.000000, -381.000000)">
+            <g id="intro" transform="translate(238.000000, 127.000000)">
+                <g id="Group-Copy-3" transform="translate(742.000000, 254.000000)">
+                    <g id="access-unify">
+                        <g id="Icon-Background-/-Circles-/-2">
+                            <g id="Color-/-Blue-/-20" transform="translate(17.783784, 12.702703)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FAFBFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)" fill="#FAFBFF" id="Rectangle-24">
+                                    <g transform="translate(-17.783784, -12.702703)">
+                                        <polygon points="0 0 188 0 188 188 0 188"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Icon-/-Large-/-Inclusion" transform="translate(30.000000, 30.000000)" stroke-linejoin="round">
+                            <g id="Group" transform="translate(12.000000, 13.000000)">
+                                <path d="M52,104 C80.718807,104 104,80.718807 104,52 C104,44.8568124 102.559688,38.0500277 99.953638,31.8542196 C96.5811067,23.8361249 91.2562713,16.8412548 84.5742163,11.4646939 C75.6604574,4.29244422 64.3315057,0 52,0 C23.281193,0 0,23.281193 0,52 C0,80.718807 23.281193,104 52,104 Z" id="Oval-5" stroke="#E3EBFC" stroke-width="2" stroke-linecap="square" stroke-dasharray="2,6,2,6"></path>
+                                <circle id="Oval" stroke="#9159FC" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" cx="34" cy="36" r="14"></circle>
+                                <rect id="Rectangle" stroke="#356AE6" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" x="59" y="24" width="25" height="25"></rect>
+                                <polygon id="Rectangle-Copy" stroke="#19CCA3" stroke-width="2" fill="#EBFFFA" fill-rule="nonzero" stroke-linecap="round" points="57 82 71 56 85 82"></polygon>
+                                <polygon id="Polygon" stroke="#356AE6" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" points="34 55 48 65.3130823 42.6524758 82 25.3475242 82 20 65.3130823"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
