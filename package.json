@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "camp-site",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Site for the Camp design system",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^2.3.3",
     "gatsby-image": "^2.0.35",
@@ -21,13 +20,10 @@
   "devDependencies": {
     "prettier": "^1.16.4"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop --port 2267",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -35,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/activecampaign/camp-site"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
